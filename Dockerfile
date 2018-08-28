@@ -6,7 +6,7 @@ RUN composer install --no-dev --optimize-autoloader --no-progress --no-suggest
 # Build the actual image
 FROM php
 
-WORKDIR /resume
+WORKDIR /vita
 CMD ["/bin/bash"]
 
 RUN apt-get update \
@@ -29,5 +29,6 @@ RUN printf '#!/bin/bash\nwhile sleep 1; do\n    "$@"\ndone' >> /usr/bin/watch-do
 
 COPY --from=composer /app/vendor /app/vendor
 COPY . /app
+COPY ./vita /vita
 
 RUN ln -s /app/bin/md2resume /usr/bin/md2resume
