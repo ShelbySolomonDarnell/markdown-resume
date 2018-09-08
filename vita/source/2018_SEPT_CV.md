@@ -13,7 +13,7 @@
 
 ### Profile {#profile}
 
-I am Shelby Solomon Darnell. I am a creator, learner, achiever, research, scientist, and dreamer. The trajectory of my life is based off my dreams and work towards making them reality. A dream that works toward improving the human condition, toward outstanding personal accomplismhment and fun for myself. The dream includes using technological progress and knowledge to enrich lives and create responsible policies to manage how it is used. One aspect of the dream is to design systems that use human affect values as operational parameters. At the moment health bands are becoming popular among the technologically saavy demographic. With the prolific use of health bands, why not better understand the signals the body is constantly producing in order to improve people's life quality?
+I am Shelby Solomon Darnell. I am a creator, learner, achiever, research, scientist, and dreamer. The trajectory of my life is based off my dreams and work towards making them reality. A dream that works toward improving the human condition, toward outstanding personal accomplismhment and fun for myself. The dream includes using technological progress and knowledge to enrich lives and create responsible policies to manage how it is used. One aspect of the dream is to design systems that use human affect values as operational parameters. At the moment health bands are becoming popular among the technologically saavy demographic. With the prolific use of health bands, why not better understand the signals the body is constantly producing in order to improve people's life quality? Identity, privacy and controlling digital assets is more important now than ever. 
 
 ------
 ### Education {#education}
