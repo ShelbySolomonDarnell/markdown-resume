@@ -1,6 +1,6 @@
 # S. Solomon Darnell
 ## Research Scientist
-#### in Biometrics, AI, Affect
+#### in Biometrics, AI, Affect and Blockchain
 
 > [Download PDF](ssd_cv.pdf)  
 > [shelby@shelbydarnell.com](mailto:shelby@shelbydarnell.com)  
@@ -13,7 +13,9 @@
 
 ### Profile {#profile}
 
-I am Shelby Solomon Darnell. I am a creator, learner, achiever, research, scientist, and dreamer. The trajectory of my life is based off my dreams and work towards making them reality. A dream that works toward improving the human condition, toward outstanding personal accomplismhment and fun for myself. The dream includes using technological progress and knowledge to enrich lives and create responsible policies to manage how it is used. One aspect of the dream is to design systems that use human affect values as operational parameters. At the moment health bands are becoming popular among the technologically saavy demographic. With the prolific use of health bands, why not better understand the signals the body is constantly producing in order to improve people's life quality? Identity, privacy and controlling digital assets is more important now than ever. 
+I am Shelby Solomon Darnell. I am a creator, learner, achiever, research, scientist, and dreamer. The trajectory of my life is based off my dreams and work towards making them reality. A dream that works toward improving the human condition, toward outstanding personal accomplismhment and fun for myself. The dream includes using technological progress and knowledge to enrich lives and create responsible policies to manage how it is used. One aspect of the dream is to design systems that use human affect values as operational parameters. At the moment health bands are becoming popular among the technologically saavy demographic. With the prolific use of health bands, why not better understand the signals the body is constantly producing in order to improve people's life quality? 
+
+Identity, privacy, and digital assets will only become more important as the Earth spins. The technology that underpins bitcoin, blockchain, is a technology that is revolutionizing data ownership and transparancy over the Internet. Now is the time to investigate, build and write policies to ensure the proper usage of blockchain to the advantage of everyone, especially catering to those in society in the most disadvantageous situations.
 
 ------
 ### Education {#education}
@@ -84,6 +86,7 @@ ______
 ### Invited Talks, Panels & News Articles {#talks}
 ------
 
+1. __2018 August 31__ Panel: Research and Setting Research Priorities, Venue: _Pan Africa Christian University's (PACUs) Inaugural Research Week_, Moderator: _Professor Dionysius (Dan)_
 1. __2018 March 1__ Article: [Five major ways blockchain can help telecom](https://www.cio.co.ke/blogs/5-major-ways-blockchain-can-help-telecom-providers/), published by: [CIO East Africa](https://www.cio.co.ke)
 
 1. __2018 February 23__ Talk: **"Blockchain: What, Why and Good to know"**, invited by (Moringa school Nairobi, Kenya)[https://moringaschool.com
