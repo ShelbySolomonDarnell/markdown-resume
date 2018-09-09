@@ -89,7 +89,7 @@ ______
 1. __2018 August 31__ Panel: Research and Setting Research Priorities, Venue: _Pan Africa Christian University's (PACUs) Inaugural Research Week_, Moderator: _Professor Dionysius (Dan)_
 1. __2018 March 1__ Article: [Five major ways blockchain can help telecom](https://www.cio.co.ke/blogs/5-major-ways-blockchain-can-help-telecom-providers/), published by: [CIO East Africa](https://www.cio.co.ke)
 
-1. __2018 February 23__ Talk: **"Blockchain: What, Why and Good to know"**, invited by (Moringa school Nairobi, Kenya)[https://moringaschool.com
+1. __2018 February 23__ Talk: **"Blockchain: What, Why and Good to know"**, invited by [Moringa school Nairobi, Kenya]([https://moringaschool.com)
 
 1. __2018 February 14__ Article: [Three things consumer brands should consider in adopting blockchain](https://www.standardmedia.co.ke/business/article/2001269736/three-things-consumer-brands-should-consider-in-adopting-blockchain), published by [Standard Digital Media](https://www.standardmedia.co.ke)
 ]
