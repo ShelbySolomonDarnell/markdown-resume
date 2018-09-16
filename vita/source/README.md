@@ -125,7 +125,7 @@ Visual Basic | Visual C++ | Visual C#
 
 ------
 
-### Work Experience {#experience}
+### Research Experience {#experience}
 
 IBM Research
 : *Intern* 
@@ -144,18 +144,39 @@ IBM Research
 
 ------
 
+### Work Experience {#L3experience}
 L-3 Communications MIS
 : *Software Engineer II*
-  __2006-2008__
+  __2006 - 2008__
   As a developer I designed and implemented client-server enterprise software to control aircraft hardware, built development management scripts, and added to an existing internal web platform
 : *Project Engineer*
   __Jan 2009 - Apr 2009__
   Performed a subset of the duties of a Project Engineer (overall engineering lead, management of incoming product and warehouse personnel, overseeing project shipping and receiving, while interacting and working with sub-contractors to build solutions for our clients).
 
 : *System Integration Lab Manager*
-  __Apr 2009-June 2009__
+  __Apr 2009 - June 2009__
   Acted as a systems integration lab manager by organizing and building, from the ground up, a SIL with the help of warehouse personnel and test engineers to simulate the internals of an aircraft system to be deployed for the U.S. Airforce.
-  
+
+------
+
+#### More Work Experience {#auburnexperience}
+
+Auburn Univerity
+: *Information Technology (IT) Lead and Manager, Student Athlete Support Services (SASS)*
+  __Sep 2004 - December 2005__
+  - Chief architect for in-house student check-in software
+  - managed multiple computer labs
+  - hired & groomed a 4 person staff, each of whom had the duel role of lab manager and developer
+  - managed over 100 computer, interfacing and meeting the needs of Athletic counselors and student-athletes alike
+: *IT Lead Assistant & Developer, College of Science and Math (COSAM)*
+  __Aug 2004 - Dec 2004__
+  - provided windows and mac system administration, trouble shooting and support
+  - co-developed software for genetic sequence experimentation
+: __*IT support, Department of Computer Science and Software Engineering (CSSE)*__
+  __Jan 2002 - May 2003__
+  - Managed multiple computer labs and equipment
+  - provided windows, mac, and linux system administration, trouble-shooting and support
+
 ------
 
 ### Teaching Experience
