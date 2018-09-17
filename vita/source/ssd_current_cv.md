@@ -88,11 +88,11 @@ ______
 
 1. __2018 August 31__ Panel: Research and Setting Research Priorities, Venue: _Pan Africa Christian University's (PACUs) Inaugural Research Week_, Moderator: _Professor Dionysius (Dan)_
 1. __2018 March 1__ Article: [Five major ways blockchain can help telecom](https://www.cio.co.ke/blogs/5-major-ways-blockchain-can-help-telecom-providers/), published by: [CIO East Africa](https://www.cio.co.ke)
-
 1. __2018 February 23__ Talk: **"Blockchain: What, Why and Good to know"**, invited by [Moringa school Nairobi, Kenya]([https://moringaschool.com)
-
 1. __2018 February 14__ Article: [Three things consumer brands should consider in adopting blockchain](https://www.standardmedia.co.ke/business/article/2001269736/three-things-consumer-brands-should-consider-in-adopting-blockchain), published by [Standard Digital Media](https://www.standardmedia.co.ke)
-]
+1. __2017 October 11__ Guest Lecture (Talk): **"Blockchain: What, Why & Good to Know"**, Venue: Senior Financial Economics at Strathmore University, invited by: Professor Godfrey Madigu
+1. __2017 June 09__ Panel (Blockchain Expert): "Blockchain, what can it do, how does it work", Venue: Metta Nairobi, 14 Riverside Drive
+1. __2016 May__ Guest Lecture (Talk): **"An Intro to Computer Vision"**, Venue: Computer Programming class at Strathmore University, Host: Samuel Karumba (computer science lecturer) 
 
 ------
 ### Skills {#skills}
@@ -125,7 +125,7 @@ Visual Basic | Visual C++ | Visual C#
 
 ------
 
-### Experience {#experience}
+### Research Experience {#experience}
 
 IBM Research
 : *Intern* 
@@ -144,19 +144,46 @@ IBM Research
 
 ------
 
+### Work Experience {#L3experience}
 L-3 Communications MIS
 : *Software Engineer II*
-  __2006-2008__
+  __2006 - 2008__
   As a developer I designed and implemented client-server enterprise software to control aircraft hardware, built development management scripts, and added to an existing internal web platform
 : *Project Engineer*
   __Jan 2009 - Apr 2009__
   Performed a subset of the duties of a Project Engineer (overall engineering lead, management of incoming product and warehouse personnel, overseeing project shipping and receiving, while interacting and working with sub-contractors to build solutions for our clients).
 
 : *System Integration Lab Manager*
-  __Apr 2009-June 2009__
+  __Apr 2009 - June 2009__
   Acted as a systems integration lab manager by organizing and building, from the ground up, a SIL with the help of warehouse personnel and test engineers to simulate the internals of an aircraft system to be deployed for the U.S. Airforce.
-  
+
 ------
+
+#### More Work Experience {#auburnexperience}
+
+Auburn Univerity
+: *Information Technology (IT) Lead and Manager, Student Athlete Support Services (SASS)*
+  __Sep 2004 - December 2005__
+  - Chief architect for in-house student check-in software
+  - managed multiple computer labs
+  - hired & groomed a 4 person staff, each of whom had the duel role of lab manager and developer
+  - managed over 100 computer, interfacing and meeting the needs of Athletic counselors and student-athletes alike
+: *IT Lead Assistant & Developer, College of Science and Math (COSAM)*
+  __Aug 2004 - Dec 2004__
+  - provided windows and mac system administration, trouble shooting and support
+  - co-developed software for genetic sequence experimentation
+: __*IT support, Department of Computer Science and Software Engineering (CSSE)*__
+  __Jan 2002 - May 2003__
+  - Managed multiple computer labs and equipment
+  - provided windows, mac, and linux system administration, trouble-shooting and support
+
+------
+
+### Teaching Experience
+
+------
+------
+
 
 ### Footer {#footer}
 
