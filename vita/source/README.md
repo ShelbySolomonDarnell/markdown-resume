@@ -47,6 +47,17 @@ ______
 + 2001-2002 - **Award** Undergrad Scholarship to Auburn University by William F. and Brenda W. Hayes
 + 2001 - **Honor** National Honor Society Induction - Tau Sigma at Auburn University 
 
+
+------
+### Filed Patents {#patents}
+------
++ 2016 Jan - **YOR920161714** - *System and method for improving classroom management by analyzing classroom artifacts using visual analysis*
++ 2016 Jul - **YOR920161489** - *Managing lifelong learner events via blockchain systems and methods*
++ 2016 Jul - **YOR920161490** - *A system and method for managing school systems on blockchain*
++ 2017 May - **P201701835** - *System and Method for Single Use Biometric token with Limited Expiry Using Blockchain*
++ 2018 Feb - **P201800988US01** - *A system and method for identification or verification by a consensus network using sparse parametric representations of biometric images*
+
+
 ------
 ### Publications {#pubs}
 ------
@@ -161,7 +172,7 @@ L-3 Communications MIS
 
 #### More Work Experience {#auburnexperience}
 
-Auburn Univerity
+Auburn University
 : *Information Technology (IT) Lead and Manager, Student Athlete Support Services (SASS)*
   __Sep 2004 - December 2005__
   - Chief architect for in-house student check-in software
@@ -176,10 +187,20 @@ Auburn Univerity
   __Jan 2002 - May 2003__
   - Managed multiple computer labs and equipment
   - provided windows, mac, and linux system administration, trouble-shooting and support
+  __*Mentor, College of Engineering*__
+  __Jan 2001__
 
 ------
 
 ### Teaching Experience
+
+Auburn/Clemson University
+: *Computer Science - Applications, Department of Computer Science*
+    __2003, 2004, 2012__
+    - Oversee computer science lab assignments
+    - Teach basic MS office application usage
+    - Teach lab and grade assignments
+
 
 ------
 ------
