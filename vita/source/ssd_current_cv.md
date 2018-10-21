@@ -8,7 +8,7 @@
 > [Twitter @ShelbySDarnell](https://twitter.com/ShelbySDarnell)
 > [LinkedIn ShelbySolomonDarnell](http://linkedin.com/in/shelbysolomondarnell)
 
-
+<!--
 ------
 
 ### Profile {#profile}
@@ -16,6 +16,7 @@
 I am Shelby Solomon Darnell. I am a creator, learner, achiever, research, scientist, and dreamer. The trajectory of my life is based off my dreams and work towards making them reality. A dream that works toward improving the human condition, toward outstanding personal accomplismhment and fun for myself. The dream includes using technological progress and knowledge to enrich lives and create responsible policies to manage how it is used. One aspect of the dream is to design systems that use human affect values as operational parameters. At the moment health bands are becoming popular among the technologically saavy demographic. With the prolific use of health bands, why not better understand the signals the body is constantly producing in order to improve people's life quality? 
 
 Identity, privacy, and digital assets will only become more important as the Earth spins. The technology that underpins bitcoin, blockchain, is a technology that is revolutionizing data ownership and transparancy over the Internet. Now is the time to investigate, build and write policies to ensure the proper usage of blockchain to the advantage of everyone, especially catering to those in society in the most disadvantageous situations.
+-->
 
 ------
 ### Education {#education}
@@ -46,6 +47,17 @@ ______
 + 2001-2002 - **Award** Undergrad Scholarship to Auburn University by Alabama Power Foundation
 + 2001-2002 - **Award** Undergrad Scholarship to Auburn University by William F. and Brenda W. Hayes
 + 2001 - **Honor** National Honor Society Induction - Tau Sigma at Auburn University 
+
+
+------
+### Filed Patents {#patents}
+------
++ 2016 Jan - **YOR920161714** - *System and method for improving classroom management by analyzing classroom artifacts using visual analysis*
++ 2016 Jul - **YOR920161489** - *Managing lifelong learner events via blockchain systems and methods*
++ 2016 Jul - **YOR920161490** - *A system and method for managing school systems on blockchain*
++ 2017 May - **P201701835** - *System and Method for Single Use Biometric token with Limited Expiry Using Blockchain*
++ 2018 Feb - **P201800988US01** - *A system and method for identification or verification by a consensus network using sparse parametric representations of biometric images*
+
 
 ------
 ### Publications {#pubs}
@@ -133,7 +145,7 @@ IBM Research
   Implemented and demoed a real-time computer vision application to track dark-skinned children in a classroom under hardware and network resource constraints. 
 
 : *Research Scientist*
-  __March 2016-September 2018__
+  __March 2016-current__
   Investigate identity and security on blockchain using biometrics. Researching and implementing state-of-the-art cancelable biometric techniques to create a pastoral identity solution to help developing and war torn countries better identify and aide their populations.
 
 : *Research Post-doc*
@@ -161,7 +173,7 @@ L-3 Communications MIS
 
 #### More Work Experience {#auburnexperience}
 
-Auburn Univerity
+Auburn University
 : *Information Technology (IT) Lead and Manager, Student Athlete Support Services (SASS)*
   __Sep 2004 - December 2005__
   - Chief architect for in-house student check-in software
@@ -176,10 +188,20 @@ Auburn Univerity
   __Jan 2002 - May 2003__
   - Managed multiple computer labs and equipment
   - provided windows, mac, and linux system administration, trouble-shooting and support
+  __*Mentor, College of Engineering*__
+  __Jan 2001__
 
 ------
 
 ### Teaching Experience
+
+Auburn/Clemson University
+: *Computer Science - Applications, Department of Computer Science*
+    __2003, 2004, 2012__
+    - Oversee computer science lab assignments
+    - Teach basic MS office application usage
+    - Teach lab and grade assignments
+
 
 ------
 ------

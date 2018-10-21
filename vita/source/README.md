@@ -8,7 +8,7 @@
 > [Twitter @ShelbySDarnell](https://twitter.com/ShelbySDarnell)
 > [LinkedIn ShelbySolomonDarnell](http://linkedin.com/in/shelbysolomondarnell)
 
-
+<!--
 ------
 
 ### Profile {#profile}
@@ -16,6 +16,7 @@
 I am Shelby Solomon Darnell. I am a creator, learner, achiever, research, scientist, and dreamer. The trajectory of my life is based off my dreams and work towards making them reality. A dream that works toward improving the human condition, toward outstanding personal accomplismhment and fun for myself. The dream includes using technological progress and knowledge to enrich lives and create responsible policies to manage how it is used. One aspect of the dream is to design systems that use human affect values as operational parameters. At the moment health bands are becoming popular among the technologically saavy demographic. With the prolific use of health bands, why not better understand the signals the body is constantly producing in order to improve people's life quality? 
 
 Identity, privacy, and digital assets will only become more important as the Earth spins. The technology that underpins bitcoin, blockchain, is a technology that is revolutionizing data ownership and transparancy over the Internet. Now is the time to investigate, build and write policies to ensure the proper usage of blockchain to the advantage of everyone, especially catering to those in society in the most disadvantageous situations.
+-->
 
 ------
 ### Education {#education}
@@ -144,7 +145,7 @@ IBM Research
   Implemented and demoed a real-time computer vision application to track dark-skinned children in a classroom under hardware and network resource constraints. 
 
 : *Research Scientist*
-  __March 2016-September 2018__
+  __March 2016-current__
   Investigate identity and security on blockchain using biometrics. Researching and implementing state-of-the-art cancelable biometric techniques to create a pastoral identity solution to help developing and war torn countries better identify and aide their populations.
 
 : *Research Post-doc*
