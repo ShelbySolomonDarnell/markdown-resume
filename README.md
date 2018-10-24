@@ -1,3 +1,7 @@
+# [S. Solomon Darnell - Current Vitae](https://github.com/ShelbySolomonDarnell/markdown-resume/tree/master/vita/source)
+
+What follows are instructions on using this project to make your very own resumes and vita's!
+
 # Markdown Resume Generator [![Build Status](https://travis-ci.org/there4/markdown-resume.png?branch=master)](https://travis-ci.org/there4/markdown-resume)[![nodesource/node](http://dockeri.co/image/there4/markdown-resume)](https://registry.hub.docker.com/u/there4/markdown-resume/)
 
 > Convert markdown to HTML and PDF resumes
