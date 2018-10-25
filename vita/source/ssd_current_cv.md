@@ -197,18 +197,15 @@ Auburn University
 
 Auburn/Clemson University
 : *Computer Science - Applications, Department of Computer Science*
-    __2003, 2004, 2012__
-    - Oversee computer science lab assignments
-    - Teach basic MS office application usage
-    - Teach lab and grade assignments
-
+  __2003, 2004, 2012__
+  - Oversee computer science lab assignments
+  - Teach basic MS office application usage
+  - Teach lab and grade assignments
 
 ------
-------
-
 
 ### Footer {#footer}
 
-S. Solomon Darnell -- [shelby@shelbydarnell.com](shelby@shelbydarnell.com) -- (+254) 713 402 341
+S. Solomon Darnell -- [shelby@shelbydarnell.com](mailto://shelby@shelbydarnell.com)
 
 ------
