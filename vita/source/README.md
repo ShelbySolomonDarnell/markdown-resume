@@ -50,13 +50,17 @@ ______
 
 
 ------
-### Filed Patents {#patents}
+### Filed Patents {#filedpatents}
 ------
 + 2016 Jan - **YOR920161714** - *System and method for improving classroom management by analyzing classroom artifacts using visual analysis*
-+ 2016 Jul - **YOR920161489** - *Managing lifelong learner events via blockchain systems and methods*
-+ 2016 Jul - **YOR920161490** - *A system and method for managing school systems on blockchain*
 + 2017 May - **P201701835** - *System and Method for Single Use Biometric token with Limited Expiry Using Blockchain*
 + 2018 Feb - **P201800988US01** - *A system and method for identification or verification by a consensus network using sparse parametric representations of biometric images*
+  
+------
+### Granted Patents {#patents}
+------
++ 2018 Nov 11 - [**US20180315145A1**](https://patents.google.com/patent/US20180315145A1/en) *Managing school systems on a blockchain*
++ 2018 Nov 29 - [**US20180342171A1**](https://patents.google.com/patent/US20180342171A1/en) - *Managing lifelong learner events on a blockchain*
 
 
 ------
@@ -133,7 +137,16 @@ Java | Javascript | JQuery | PHP | Perl
 Python | Docker | CVS | Subversion | Git
 Windows XP-10 | Linux | OS X | Lisp | Quick Basic
 Golang | Kubernetes | Basic | Ruby | LaTeX
-Visual Basic | Visual C++ | Visual C# 
+Shell Scripting | AngularJS | Visual Basic | Visual C++ | Visual C#
+
+------
+
+### Entreprenural Experience {#entreprenuer}
+
+Solomon Ventures LLC - Solution/System Architecting, Development, and Consulting
+: *Chief*
+    __January 2019__
+    Architecture developed for a revolutionary housing portal for Kenya, by Kenyans.
 
 ------
 
