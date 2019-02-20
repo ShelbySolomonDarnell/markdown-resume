@@ -143,8 +143,8 @@ Shell Scripting | AngularJS | Visual Basic | Visual C++ | Visual C#
 
 ### Entreprenural Experience {#entreprenuer}
 
-Solomon Ventures LLC - Solution/System Architecting, Development, and Consulting
-: *Chief*
+Solomon Ventures LLC
+: *Solution/System Architecting, Development, and Consulting*
     __January 2019__
     Architecture developed for a revolutionary housing portal for Kenya, by Kenyans.
 
