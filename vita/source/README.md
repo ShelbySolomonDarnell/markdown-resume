@@ -59,6 +59,7 @@ ______
 ------
 ### Granted Patents {#patents}
 ------
++ 2018 Oct 18 - [**US20180300830A1**](https://patents.google.com/patent/US20180300830A1/en) - *Configuring classroom physical resources*
 + 2018 Nov 11 - [**US20180315145A1**](https://patents.google.com/patent/US20180315145A1/en) *Managing school systems on a blockchain*
 + 2018 Nov 29 - [**US20180342171A1**](https://patents.google.com/patent/US20180342171A1/en) - *Managing lifelong learner events on a blockchain*
 
