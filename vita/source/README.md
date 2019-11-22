@@ -115,8 +115,8 @@ ______
 ### Skills {#skills}
 ------
 * Full Stack Development
- : Biometrics on Blockchain (Securing the Signal): Explore new and novel
- techniques to maintain secrecy of pure biometric information to login to blockchains
+  : Biometrics on Blockchain (Securing the Signal): Explore new and novel
+    techniques to maintain secrecy of pure biometric information to login to blockchains
 
 * Web Design
   : Assertively exploit wireless initiatives rather than synergistic core competencies.
@@ -139,6 +139,7 @@ Python | Docker | CVS | Subversion | Git
 Windows XP-10 | Linux | OS X | Lisp | Quick Basic
 Golang | Kubernetes | Basic | Ruby | LaTeX
 Shell Scripting | AngularJS | Visual Basic | Visual C++ | Visual C#
+Nodejs | Angular | web2py | 
 
 ------
 
@@ -171,6 +172,11 @@ IBM Research
 ------
 
 ### Work Experience {#L3experience}
+Techno Brain Group LLC
+: *Product Manager, Identity Management (IDM) Business Unit*
+  __2019__
+  Developed a new architecture to revamp twelve(12) year old software offering. Lead the development of a proof of concept implementation of the architecture, personally building several services personally. Led interaction with client, a country technology representative in the office of the president. Consulted, planned and tested migration of company wide software DevOPs.
+
 L-3 Communications MIS
 : *Software Engineer II*
   __2006 - 2008__
