@@ -63,6 +63,7 @@ ______
 + 2018 Nov 11 - [**US20180315145A1**](https://patents.google.com/patent/US20180315145A1/en) *Managing school systems on a blockchain*
 + 2018 Nov 29 - [**US20180342171A1**](https://patents.google.com/patent/US20180342171A1/en) - *Managing lifelong learner events on a blockchain*
 + 2019 Dec 12 - [**US20190378142A1**](https://patents.google.com/patent/US20190378142A1/) - *Biometric token for Blockchain*
++ 2020 Mar 19 - [**US20200090012A1**](https://patents.google.com/patent/US20200090012A1/en) = *Identification and/or Verification by a consensus network using sparse parametric representations of biometric images*
 
 ------
 ### Publications {#pubs}
