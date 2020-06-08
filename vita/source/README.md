@@ -1,6 +1,6 @@
 # S. Solomon Darnell
 ## Research Scientist
-#### in Biometrics, AI, Affect and Blockchain
+#### in Data Science, AI, Blockchain, Affect and more
 
 > [Download PDF](ssd_cv.pdf)  
 > [shelby@shelbydarnell.com](mailto:shelby@shelbydarnell.com)  
