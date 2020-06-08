@@ -47,14 +47,6 @@ ______
 + 2001-2002 - **Award** Undergrad Scholarship to Auburn University by Alabama Power Foundation
 + 2001-2002 - **Award** Undergrad Scholarship to Auburn University by William F. and Brenda W. Hayes
 + 2001 - **Honor** National Honor Society Induction - Tau Sigma at Auburn University 
-
-
-------
-### Filed Patents {#filedpatents}
-------
-+ 2016 Jan - **YOR920161714** - *System and method for improving classroom management by analyzing classroom artifacts using visual analysis*
-+ 2017 May - **P201701835** - *System and Method for Single Use Biometric token with Limited Expiry Using Blockchain*
-+ 2018 Feb - **P201800988US01** - *A system and method for identification or verification by a consensus network using sparse parametric representations of biometric images*
   
 ------
 ### Granted Patents {#patents}
@@ -63,7 +55,7 @@ ______
 + 2018 Nov 11 - [**US20180315145A1**](https://patents.google.com/patent/US20180315145A1/en) *Managing school systems on a blockchain*
 + 2018 Nov 29 - [**US20180342171A1**](https://patents.google.com/patent/US20180342171A1/en) - *Managing lifelong learner events on a blockchain*
 + 2019 Dec 12 - [**US20190378142A1**](https://patents.google.com/patent/US20190378142A1/) - *Biometric token for Blockchain*
-+ 2020 Mar 19 - [**US20200090012A1**](https://patents.google.com/patent/US20200090012A1/en) = *Identification and/or Verification by a consensus network using sparse parametric representations of biometric images*
++ 2020 Mar 19 - [**US20200090012A1**](https://patents.google.com/patent/US20200090012A1/en) - *Identification and/or Verification by a consensus network using sparse parametric representations of biometric images*
 
 ------
 ### Publications {#pubs}
