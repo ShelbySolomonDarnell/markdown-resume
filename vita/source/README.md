@@ -13,7 +13,7 @@
 
 ### Profile {#profile}
 
-I am Shelby Solomon Darnell. I am a creator, learner, achiever, research, scientist, and dreamer. The trajectory of my life is based off my dreams and work towards making them reality. A dream that works toward improving the human condition, toward outstanding personal accomplismhment and fun for myself. The dream includes using technological progress and knowledge to enrich lives and create responsible policies to manage how it is used. One aspect of the dream is to design systems that use human affect values as operational parameters. At the moment health bands are becoming popular among the technologically saavy demographic. With the prolific use of health bands, why not better understand the signals the body is constantly producing in order to improve people's life quality? 
+I am Shelby Solomon Darnell. I am a creator, learner, achiever, research, scientist, and dreamer. The trajectory of my life is based off my dreams and work towards making them reality. A dream that works toward improving the human condition, toward outstanding personal accomplismhment and fun for myself. The dream includes using technological progress and knowledge to enrich lives and create responsible policies to manage its usage. One aspect of the dream is to design systems that use human affect values as operational parameters. At the moment health bands are becoming popular among the technologically saavy demographic. With the prolific use of health bands, why not better understand the signals the body is constantly producing in order to improve people's life quality?
 
 Identity, privacy, and digital assets will only become more important as the Earth spins. The technology that underpins bitcoin, blockchain, is a technology that is revolutionizing data ownership and transparancy over the Internet. Now is the time to investigate, build and write policies to ensure the proper usage of blockchain to the advantage of everyone, especially catering to those in society in the most disadvantageous situations.
 -->
@@ -96,6 +96,7 @@ ______
 ### Invited Talks, Panels & News Articles {#talks}
 ------
 
+1. __2020 September 15__ Panel & Keynote: Embracing a changing society: Opening Strathmore University's School of Computing and Engineering Sciences, Venue: _Strathmore University SCES Opening_, Moderator: _Professor Ismail Ateya_
 1. __2018 August 31__ Panel: Research and Setting Research Priorities, Venue: _Pan Africa Christian University's (PACUs) Inaugural Research Week_, Moderator: _Professor Dionysius (Dan)_
 1. __2018 March 1__ Article: [Five major ways blockchain can help telecom](https://www.cio.co.ke/blogs/5-major-ways-blockchain-can-help-telecom-providers/), published by: [CIO East Africa](https://www.cio.co.ke)
 1. __2018 February 23__ Talk: **"Blockchain: What, Why and Good to know"**, invited by [Moringa school Nairobi, Kenya]([https://moringaschool.com)
@@ -138,7 +139,8 @@ Nodejs | Angular | web2py |
 
 ### Entreprenural Experience {#entreprenuer}
 
-Solomon Ventures LLC
+Solomon Ventures LLC & Vibranium Identity
+: *CEO & CTO*
 : *Solution/System Architecting, Development, and Consulting*
     __January 2019__
     Architecture developed for a revolutionary housing portal for Kenya, by Kenyans.
@@ -147,20 +149,22 @@ Solomon Ventures LLC
 
 ### Research Experience {#experience}
 
+Strathmore University @iLabAfrica Research Centre
+: *Research & Academic Director*
+  __May 2020-present__
+
 IBM Research
 : *Intern* 
   __Jun-Aug 2015__
   Implemented and demoed a real-time computer vision application to track dark-skinned children in a classroom under hardware and network resource constraints. 
-
-: *Research Scientist*
-  __March 2016-current__
-  Investigate identity and security on blockchain using biometrics. Researching and implementing state-of-the-art cancelable biometric techniques to create a pastoral identity solution to help developing and war torn countries better identify and aide their populations.
-
+  
 : *Research Post-doc*
   __Dec 2015-Feb 2016__
   Further explored computer vision techniques for tracking and uniquely identifying dark-skinned children in a classroom under hardware and network resource constraints. Wrote first patent.
 
-
+: *Research Scientist*
+  __Mar 2016-Oct 2018__
+  Investigate identity and security on blockchain using biometrics. Researching and implementing state-of-the-art cancelable biometric techniques to create a pastoral identity solution to help developing and war torn countries better identify and aide their populations.
 
 ------
 
